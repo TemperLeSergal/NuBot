@@ -189,12 +189,12 @@ form h1.loadIn {
 }
 
 .acceptBtn {
-    width: 100%;
+    width: 65%;
     box-sizing: border-box;
     background: #7289da;
     border: none;
     color: #fff;
-    padding: 20px 0;
+    padding: 12px 12px 12px;
     border-radius: 3px;
     cursor: pointer;
     transition: 0.2s ease;
@@ -202,6 +202,8 @@ form h1.loadIn {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    text-decoration: none;
+    margin: 0 58px;
 }
 .acceptBtn:hover {
     background: #6b7fc5;
